@@ -1,1 +1,4 @@
 include README.rst
+include russtress/add_dictionary.sm
+include russtress/text_model.json
+include russtress/weights.96.hdf5
