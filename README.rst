@@ -3,12 +3,20 @@ For more details about the tool see `«Automated Word Stress Detection in Russia
 
 Installation
 ============
-Simple installation with __pip__::
+
+Simple installation with pip
+
+::
+
     pip install russtress
         
 Usage example
 ========================
-To put stress marks to your text::
+
+To put stress marks to your text
+
+::
+
     >>> from russtress import Accent
     >>> accent = Accent()
     >>> text = 'Проставь, пожалуйста, ударения'
