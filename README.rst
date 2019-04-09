@@ -23,3 +23,8 @@ To put stress marks to your text
     >>> accented_text = accent.put_stress(text)
     >>> accented_text
     "Проста'вь, пожа'луйста, ударе'ния"
+
+
+Datasets
+========================
+The repo contains samples from UD treebanks annotated with word stress for the Russian, Ukranian and Belorusian languages. For more details about the tool see VarDial paper (coming soon).
