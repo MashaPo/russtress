@@ -13,6 +13,8 @@ setup(name='russtress',
         'Natural Language :: Russian',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
         'Topic :: Text Processing :: Linguistic',
         'Intended Audience :: Education'
       ],
@@ -21,7 +23,6 @@ setup(name='russtress',
       author_email='ponomarevamawa@gmail.com',
       packages=['russtress'],
       install_requires=[
-          'Keras',
 		  'numpy',
 		  'scipy',
 		  'tensorflow'
